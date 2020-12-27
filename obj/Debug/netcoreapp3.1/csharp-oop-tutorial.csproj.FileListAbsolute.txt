@@ -1,0 +1,12 @@
+/Users/devantemoore/Projects/csharp-oop-tutorial/bin/Debug/netcoreapp3.1/csharp-oop-tutorial.deps.json
+/Users/devantemoore/Projects/csharp-oop-tutorial/bin/Debug/netcoreapp3.1/csharp-oop-tutorial.runtimeconfig.json
+/Users/devantemoore/Projects/csharp-oop-tutorial/bin/Debug/netcoreapp3.1/csharp-oop-tutorial.runtimeconfig.dev.json
+/Users/devantemoore/Projects/csharp-oop-tutorial/bin/Debug/netcoreapp3.1/csharp-oop-tutorial.dll
+/Users/devantemoore/Projects/csharp-oop-tutorial/bin/Debug/netcoreapp3.1/csharp-oop-tutorial.pdb
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.csprojAssemblyReference.cache
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.AssemblyInfoInputs.cache
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.AssemblyInfo.cs
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.csproj.CoreCompileInputs.cache
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.dll
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.pdb
+/Users/devantemoore/Projects/csharp-oop-tutorial/obj/Debug/netcoreapp3.1/csharp-oop-tutorial.genruntimeconfig.cache
